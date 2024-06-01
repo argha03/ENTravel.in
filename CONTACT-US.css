@@ -1,0 +1,177 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1211px;
+}
+
+.u-section-1 .u-rotation-parent-1 {
+  width: 972px;
+  height: 1068px;
+  margin: 146px 0 0 auto;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 1068px;
+  height: 972px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 745px;
+  height: 747px;
+  object-position: 0% 50%;
+  background-position: 50% 50%;
+  background-image: url("images/mosque-sandstone-mausoleum-complex-Taj-Mahal-Uttar-26.jpg");
+  margin: -984px 43px 0 auto;
+}
+
+.u-section-1 .u-shape-2 {
+  width: 241px;
+  height: 242px;
+  background-image: none;
+  margin: -129px auto 0 176px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 515px;
+  background-image: none;
+  margin: -311px 43px 0 505px;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-5 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-image: none;
+  width: 100%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-rotation-parent-1 {
+    width: 878px;
+    height: 922px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 922px;
+    height: 878px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 724px;
+    height: 724px;
+    margin-top: -917px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    width: 227px;
+    height: 228px;
+    margin-right: 28px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 0;
+    margin-left: 348px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-rotation-parent-1 {
+    width: 720px;
+    height: 781px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 791px;
+    height: 720px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 594px;
+    height: 594px;
+    margin-top: -697px;
+    margin-right: 40px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    margin-right: 25px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-left: 128px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-rotation-parent-1 {
+    width: 540px;
+    height: 601px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 593px;
+    height: 540px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 440px;
+    height: 440px;
+    margin-top: -517px;
+    margin-right: auto;
+    margin-left: 66px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    width: 189px;
+    height: 189px;
+    margin-right: auto;
+    margin-left: 333px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 553px;
+    margin-left: -6px;
+    margin-right: -6px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-rotation-parent-1 {
+    width: 312px;
+    height: 375px;
+    margin-top: 32px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 375px;
+    height: 312px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 229px;
+    height: 229px;
+    margin-top: -302px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-shape-2 {
+    width: 119px;
+    height: 120px;
+    margin-top: -47px;
+    margin-left: 51px;
+  }
+
+  .u-section-1 .u-form-1 {
+    height: 609px;
+    width: 313px;
+    margin: 29px auto 60px;
+  }
+}

@@ -1,0 +1,75 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/ra.webp");
+  background-position: 50% 35.51%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 431px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3.75rem;
+  font-family: "Abril Fatface";
+  width: 470px;
+  margin: 202px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 355px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 272px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 204px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 128px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 340px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 258px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 58px 0 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 0;
+}.u-section-3 .u-sheet-1 {
+  min-height: 500px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 412px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 316px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 296px;
+  }
+} .u-section-4 {
+  min-height: 500px;
+}

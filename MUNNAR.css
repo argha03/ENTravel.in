@@ -1,0 +1,340 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("images/munnar-36.jpg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 411px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 4.5rem;
+  font-weight: 700;
+  margin: 226px 411px 0 461px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.25rem;
+  margin: -23px 440px 60px 490px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 339px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 296px;
+    margin-left: 361px;
+    margin-right: 311px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 210px;
+    margin-left: 390px;
+    margin-right: 340px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 260px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 251px;
+    margin-right: 201px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 280px;
+    margin-right: 230px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 195px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 161px;
+    margin-right: 111px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 190px;
+    margin-right: 140px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 123px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 61px;
+    margin-right: 11px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 90px;
+    margin-right: 40px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 540px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 20px auto 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-weight: 400;
+  margin: 0;
+}
+
+.u-section-2 .u-text-3 {
+  font-weight: 400;
+  margin: 0;
+}
+
+.u-section-2 .u-text-4 {
+  font-weight: 400;
+  margin: 0;
+}
+
+.u-section-2 .u-text-5 {
+  font-weight: 400;
+  margin: 0 0 20px;
+} .u-section-3 {
+  min-height: 318px;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 523px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  margin-top: 54px;
+  margin-bottom: 40px;
+}
+
+.u-section-3 .u-layout-cell-1 {
+  min-height: 429px;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 0 0 1px;
+}
+
+.u-section-3 .u-group-1 {
+  width: 1140px;
+  min-height: 427px;
+  height: auto;
+  box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
+  margin: 1px -570px 0 auto;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 30px 0;
+}
+
+.u-section-3 .u-text-1 {
+  font-family: "Abril Fatface";
+  font-weight: 700;
+  text-decoration: underline !important;
+  margin: 31px 720px 0 169px;
+}
+
+.u-section-3 .u-text-2 {
+  background-image: none;
+  margin: 50px 582px 0 0;
+}
+
+.u-section-3 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-3 .u-btn-2 {
+  border-style: none none solid;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin: 16px auto 0 246px;
+  padding: 0;
+}
+
+.u-section-3 .u-image-1 {
+  min-height: 429px;
+  background-image: url("images/Eravikulam-National-Park-ArunSuresh-wikimediacommons.jpg");
+  background-position: 61.69% 50%;
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 19px 29px 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 448px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 354px;
+  }
+
+  .u-section-3 .u-group-1 {
+    width: 470px;
+    margin-right: 0;
+    height: auto;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: 2px;
+    margin-right: 219px;
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-top: 40px;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-btn-2 {
+    margin-top: 20px;
+    margin-left: 6px;
+  }
+
+  .u-section-3 .u-image-1 {
+    background-position: 50% 50%;
+    min-height: 354px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-3 {
+    min-height: 66px;
+  }
+
+  .u-section-3 .u-sheet-1 {
+    min-height: 523px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-top: 56px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 427px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-bottom: 0;
+  }
+
+  .u-section-3 .u-group-1 {
+    width: 360px;
+    margin: 0 auto -1px -6px;
+  }
+
+  .u-section-3 .u-text-1 {
+    width: 251px;
+    margin-top: 16px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-top: 16px;
+  }
+
+  .u-section-3 .u-btn-2 {
+    margin-top: 33px;
+    margin-left: 122px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 427px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1163px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 426px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .u-section-3 .u-group-1 {
+    min-height: 450px;
+    margin-bottom: -24px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: 39px;
+  }
+
+  .u-section-3 .u-btn-2 {
+    margin-top: 16px;
+    margin-left: auto;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 641px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 450px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-group-1 {
+    min-height: 519px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-top: 19px;
+    padding-bottom: 19px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: 0;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-top: 53px;
+  }
+
+  .u-section-3 .u-btn-2 {
+    margin-top: 15px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 404px;
+  }
+}
